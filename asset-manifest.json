@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/uflix_test/static/css/main.c0f9a2ed.css",
-    "main.js": "/uflix_test/static/js/main.d7284b86.js",
+    "main.css": "/uflix_test/static/css/main.b2524a78.css",
+    "main.js": "/uflix_test/static/js/main.26fd0943.js",
     "index.html": "/uflix_test/index.html",
-    "main.c0f9a2ed.css.map": "/uflix_test/static/css/main.c0f9a2ed.css.map",
-    "main.d7284b86.js.map": "/uflix_test/static/js/main.d7284b86.js.map"
+    "main.b2524a78.css.map": "/uflix_test/static/css/main.b2524a78.css.map",
+    "main.26fd0943.js.map": "/uflix_test/static/js/main.26fd0943.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0f9a2ed.css",
-    "static/js/main.d7284b86.js"
+    "static/css/main.b2524a78.css",
+    "static/js/main.26fd0943.js"
   ]
 }
